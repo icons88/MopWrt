@@ -1,4 +1,4 @@
-name:  MopWrt-k6.1-passwall
+name:  MopWrt-k6.1-uugame
 
 on: 
   workflow_dispatch:
