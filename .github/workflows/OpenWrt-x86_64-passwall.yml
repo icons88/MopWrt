@@ -3,7 +3,7 @@ name:  MopWrt-k6.1-passwall
 on: 
   workflow_dispatch:
   schedule:
-    - cron: 30 00 * * 5
+    - cron: 22 00 * * 5
 
 env:
   REPO_URL: https://github.com/openwrt/openwrt
